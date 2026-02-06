@@ -1,6 +1,6 @@
-import CompanionCard from "@/components/ui/companion-card";
-import CompanionsList from "@/components/ui/companions-list";
-import CTA from "@/components/ui/CTA";
+import CompanionCard from "@/components/companion-card";
+import CompanionsList from "@/components/companions-list";
+import CTA from "@/components/CTA";
 import { recentSessions } from "@/constants";
 import React from "react";
 
